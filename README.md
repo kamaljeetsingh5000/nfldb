@@ -1,4 +1,4 @@
-**THIS PROJECT IS UNMAINTAINED.**
+# THIS PROJECT IS UNMAINTAINED.
 
 nfldb is a relational database bundled with a Python module to quickly and
 conveniently query and update the database with data from active games.
